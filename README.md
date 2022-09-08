@@ -11,3 +11,15 @@
 '''
 conda create -p venv python==3.9.12 -y
 '''
+
+# Activate the environment
+'''
+conda activate venv/
+'''
+
+# Creat a Requirements.txt file and write down all the library we require into it.
+
+# Install all the required library from Requirements.txt
+'''
+pip install -r Requirements.txt
+'''
