@@ -1,4 +1,4 @@
-certifi==latest
+certifi==2021.10.8
 click==8.1.3
 cycler==0.11.0
 Flask==2.2.2
